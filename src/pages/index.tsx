@@ -1,7 +1,8 @@
 import type { NextPage } from "next";
+import ConnectButton from "../components/ConnectButton";
 
 const Home: NextPage = () => {
-  return <p style={{ color: "white" }}>Hello World</p>;
+  return <ConnectButton />;
 };
 
 export default Home;
