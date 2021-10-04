@@ -14,7 +14,7 @@ export default function ConnectButton() {
     <Box
       display="flex"
       alignItems="center"
-      background="gray-700"
+      background="gray.700"
       borderRadius="xl"
       py="0"
     >
